@@ -75,7 +75,7 @@ img.emoji {
 <script type='text/javascript' src='http://www.biotech.ca/wp-includes/js/jquery/jquery-migrate.min.js'></script>
 <script type='text/javascript' src='http://www.biotech.ca/wp-content/themes/biotec/library/js/libs/jquery.bxslider/jquery.bxslider.js'></script>
 <script type='text/javascript' src='http://www.biotech.ca/wp-content/themes/biotec/library/js/libs/custom_form_elements.js'></script>
-<script type='text/javascript' src='https://npmcdn.com/masonry-layout@4.0/dist/masonry.pkgd.min.js'></script>
+<script type='text/javascript' src='https://unpkg.com/masonry-layout@4.0/dist/masonry.pkgd.min.js'></script>
 <script type='text/javascript' src='http://www.biotech.ca/wp-content/themes/biotec/library/js/libs/modernizr.custom.min.js'></script>
 <link rel='https://api.w.org/' href='http://www.biotech.ca/wp-json/' />
 <link rel='shortlink' href='http://www.biotech.ca/' />
